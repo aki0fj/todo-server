@@ -7,16 +7,16 @@
       "status": "entry"
     },
     {
+      "id": 2,
       "name": "member B",
       "todoText": "Now I'm Here!",
-      "status": "confirm",
-      "id": 2
+      "status": "entry"
     },
     {
+      "id": 3,
       "name": "member B",
       "todoText": "こんにちは　世界！",
-      "status": "confirm",
-      "id": 3
+      "status": "entry"
     }
   ]
 }
