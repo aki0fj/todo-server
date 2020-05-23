@@ -1,0 +1,14 @@
+{
+  "name": "todo-server",
+  "version": "1.0.0",
+  "description": "todo server",
+  "main": "index.js",
+  "author": "aki0fj",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  },
+  "scripts": {
+    "start": "json-server --host 0.0.0.0 --port 3001 --watch db.json"
+  }
+}
