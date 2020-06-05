@@ -1,4 +1,21 @@
 {
+  "members": [
+    {
+      "id": 1,
+      "name": "member A",
+      "priority": 3
+    },
+    {
+      "id": 2,
+      "name": "member B",
+      "priority": 2
+    },
+    {
+      "id": 3,
+      "name": "member C",
+      "priority": 1
+    }
+  ],
   "tasks": [
     {
       "id": 1,
